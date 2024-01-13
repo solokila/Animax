@@ -39,6 +39,7 @@ export const colors = {
         yellow6: '#f9f2d6',
         yellow7: '#fff6d8',
         tintLight: '#d9d4d4',
+        input: '#FAFAFA',
     },
     dark: {
         mainColor: '#06C149',
@@ -80,6 +81,7 @@ export const colors = {
         yellow6: '#293240',
         yellow7: '#36352f',
         tintLight: '#474d57',
+        input: '#171e24',
     },
     mainColor: '#06C149',
     lMainColor: '#10cc54',
@@ -92,6 +94,7 @@ export const colors = {
     gray2: '#757575',
     gray3: '#E0E0E0',
     gray4: '#BDBDBD',
+    focusinput: '#EBFAF1',
     white: '#ffffff',
     yellow: '#fdd835',
 }
